@@ -1,0 +1,6 @@
+{
+ "prettier.useEditorConfig": false,
+ "prettier.singleQuote": true,
+ "prettier.bracketSpacing": false,
+ "prettier.proseWrap": "always"
+}
